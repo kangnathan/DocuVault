@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Karl\\Desktop\\DocuVault\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|c:\\users\\karl\\desktop\\docuvault\\documentmanagementsystem\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|c:\\users\\karl\\desktop\\docuvault\\documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "DocumentManagementSystem\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Services\\EmailService.cs",
-              "RelativeToolTip": "DocumentManagementSystem\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "DocumentManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Form1.cs",
+              "RelativeToolTip": "DocumentManagementSystem\\Form1.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAiwGkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:20:21.994Z",
+              "WhenOpened": "2024-10-24T05:24:54.445Z",
               "EditorCaption": ""
             }
           ]

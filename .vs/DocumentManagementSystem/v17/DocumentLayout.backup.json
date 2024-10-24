@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Karl\\Desktop\\DocuVault\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\Karl\\Desktop\\DocuVault\\documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|c:\\users\\karl\\desktop\\docuvault\\documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|c:\\users\\karl\\desktop\\docuvault\\documentmanagementsystem\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\Karl\\Desktop\\DocuVault\\documentmanagementsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|c:\\users\\karl\\desktop\\docuvault\\documentmanagementsystem\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\Karl\\Desktop\\DocuVault\\documentmanagementsystem\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\Karl\\Desktop\\DocuVault\\documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\Karl\\Desktop\\DocuVault\\documentmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|C:\\Users\\Karl\\Desktop\\DocuVault\\documentmanagementsystem\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B283E146-6884-4EF5-9766-B972918E3976}|DocumentManagementSystem\\DocumentManagementSystem.csproj|solutionrelative:documentmanagementsystem\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DocumentService.cs",
-              "DocumentMoniker": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Services\\DocumentService.cs",
-              "RelativeDocumentMoniker": "DocumentManagementSystem\\Services\\DocumentService.cs",
-              "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Services\\DocumentService.cs*",
-              "RelativeToolTip": "DocumentManagementSystem\\Services\\DocumentService.cs*",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAiwLIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:12:48.674Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -65,84 +24,10 @@
               "RelativeDocumentMoniker": "DocumentManagementSystem\\Form1.cs",
               "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Form1.cs*",
               "RelativeToolTip": "DocumentManagementSystem\\Form1.cs*",
-              "ViewState": "AgIAADwBAAAAAAAAAAAqwE4BAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAiwGkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T16:03:01.727Z",
+              "WhenOpened": "2024-10-24T05:24:54.445Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "DocumentManagementSystem\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Services\\UserService.cs",
-              "RelativeToolTip": "DocumentManagementSystem\\Services\\UserService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:37:50.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserManagementForm.cs",
-              "DocumentMoniker": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\UserManagementForm.cs",
-              "RelativeDocumentMoniker": "DocumentManagementSystem\\UserManagementForm.cs",
-              "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\UserManagementForm.cs",
-              "RelativeToolTip": "DocumentManagementSystem\\UserManagementForm.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:26:47.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "DocumentManagementSystem\\Form1.cs",
-              "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Form1.cs [Design]*",
-              "RelativeToolTip": "DocumentManagementSystem\\Form1.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:30:51.733Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserManagementForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\UserManagementForm.cs",
-              "RelativeDocumentMoniker": "DocumentManagementSystem\\UserManagementForm.cs",
-              "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\UserManagementForm.cs [Design]",
-              "RelativeToolTip": "DocumentManagementSystem\\UserManagementForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:23:25.808Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Models\\User.cs",
-              "RelativeDocumentMoniker": "DocumentManagementSystem\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Models\\User.cs",
-              "RelativeToolTip": "DocumentManagementSystem\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:44:38.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Data\\Database.cs",
-              "RelativeDocumentMoniker": "DocumentManagementSystem\\Data\\Database.cs",
-              "ToolTip": "C:\\Users\\Karl\\Desktop\\DocuVault\\DocumentManagementSystem\\Data\\Database.cs",
-              "RelativeToolTip": "DocumentManagementSystem\\Data\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T10:10:33.19Z"
             }
           ]
         }

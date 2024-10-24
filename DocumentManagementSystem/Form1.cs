@@ -337,19 +337,29 @@ namespace DocumentManagementSystem
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
-            // Reset the logged-in user ID
-            _loggedInUserId = 0;
+            if (_loggedInUserId != 0) // Check if a user is logged in
+            {
+                // Reset the logged-in user ID
+                _loggedInUserId = 0;
 
-            // Clear the document list
-            lvDocuments.Items.Clear();
+                // Clear the document and audit trail lists
+                lvDocuments.Items.Clear();
+                lvAuditTrail.Items.Clear();
 
-            lvAuditTrail.Items.Clear(); // Clear existing items
+                // Optionally show a message box to indicate successful logout
+                MessageBox.Show("You have logged out successfully.");
+            }
+            else
+            {
+                // Show a different message when no user is logged in
+                MessageBox.Show("No user is currently logged in.");
+            }
 
-            // Optionally, show a message box or update the UI to indicate the user has logged out
-            MessageBox.Show("You have logged out successfully.");
+            // Clear the textboxes regardless of whether someone was logged in
             txtUsername.Clear();
             txtPassword.Clear();
         }
+
 
         private async void btnSendEmail_Click(object sender, EventArgs e)
         {

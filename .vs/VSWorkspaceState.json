@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DocumentManagementSystem"
+    "\\DocumentManagementSystem",
+    "\\DocumentManagementSystem\\Services"
   ],
-  "SelectedNode": "\\DocumentManagementSystem\\UserManagementForm.cs",
+  "SelectedNode": "\\DocumentManagementSystem\\Services\\EmailService.cs",
   "PreviewInSolutionExplorer": false
 }
